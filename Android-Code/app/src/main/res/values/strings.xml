@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Personal Blog App</string>
+    <string name="post_title">Post Title</string>
 </resources>
